@@ -1,0 +1,5 @@
+31.03.2013
+setup gitignore
+branch to git hub or google code
+boost library for unit testing
+directory structure bin source etc 
