@@ -8,7 +8,7 @@ using namespace std;
 ///////////////////////////////////////////////////
 class goblet
 {
-	private:
+	protected:
 		string uniqueName;
 	public:
 		void setName(string name)
@@ -23,3 +23,20 @@ class goblet
 		{
 				}
 };
+
+class characterObj: public goblet
+{
+	private:
+		char sex; //M or F
+		char type; //
+		int magic,strength,health,wealth;
+	public:
+		characterObj();
+		int randNumGen(int range);
+
+		
+
+
+ };
+
+

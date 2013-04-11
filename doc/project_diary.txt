@@ -6,3 +6,7 @@ directory structure bin source etc
 01.04.2013
 test makefile setup
 create char class
+11.04.2013
+created main.cpp & goblet.cpp
+need enum for type in char and M F check
+need charcter output routine

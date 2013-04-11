@@ -1,2 +1,2 @@
 all:
-	g++ -ogobletTest -lboost_unit_test_framework gobletTest.cpp
+	g++ -ogobletTest -lboost_unit_test_framework gobletTest.cpp goblet.cpp
