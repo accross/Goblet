@@ -10,3 +10,10 @@ create char class
 created main.cpp & goblet.cpp
 need enum for type in char and M F check
 need charcter output routine
+13.04.2013
+character types wizard/witch/hero/heroine/sponsor/worker/creature
+weapon type Axe/sword/dagger/catapult
+magical object wand/shield/invisibility cloak/transporter 
+spell stunning/revealer/object or weapon summoning
+
+****check char checker --not working****

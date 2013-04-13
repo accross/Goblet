@@ -32,7 +32,9 @@ class characterObj: public goblet
 		int magic,strength,health,wealth;
 	public:
 		characterObj();
+		void charDisplay();
 		int randNumGen(int range);
+		void charTypeCheck();
 
 		
 
